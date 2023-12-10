@@ -8,3 +8,6 @@ butonlar pasif iken kırmızı renkte aktif duruma geçtiğinde ise yeşil renge
 butonlar aktif iken tekrar tıklandığında yeniden pasif duruma geçmektedir.
 
 
+
+
+
